@@ -83,17 +83,16 @@ python main.py
 
 ## 📸 Screenshots
 
-| Screenshot | Link |
-|------------|------|
-| Main Menu | `https://screenshots/main_menu.png` |
-| Current Weather | `https://screenshots/current_weather.png` |
-| 5-Day Forecast | `https://screenshots/forecast.png` |
-| Favorite Cities | `https://screenshots/favorites.png` |
-| Subscriptions | `https://screenshots/subscriptions.png` |
-| Random Fact | `https://screenshots/random_fact.png` |
-| Daily Tip | `https://screenshots/daily_tip.png` |
-| Weather Widget | `https://screenshots/widget.png` |
-| Daily Notification | `https://screenshots/notification.png` |
+<div align="center">
+  <img src="screenshots/main_menu.png" alt="Main Menu" width="40%"/>
+  <img src="screenshots/current_weather.png" alt="Gameplay" width="25%"/>
+  <img src="screenshots/forecast.png" alt="Gameplay" width="26%"/>
+  <img src="screenshots/daily_tip.png" alt="Game Over" width="38%"/>
+  <img src="screenshots/random_fact.png" alt="Game Over" width="38%"/>
+  <img src="screenshots/widget.png" alt="Game Over" width="38%"/>
+  
+  <p><i>Нажмите на скриншот для увеличения</i></p>
+</div>
 
 ---
 
