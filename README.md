@@ -90,8 +90,6 @@ python main.py
   <img src="screenshots/daily_tip.png" alt="Game Over" width="38%"/>
   <img src="screenshots/random_fact.png" alt="Game Over" width="38%"/>
   <img src="screenshots/widget.png" alt="Game Over" width="38%"/>
-  
-  <p><i>Нажмите на скриншот для увеличения</i></p>
 </div>
 
 ---
